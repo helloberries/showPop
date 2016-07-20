@@ -2,17 +2,17 @@
 showpop是一个基于jQuery的弹出层插件。
 
 ##	调用方法
-<pre>
-$('#btn').click(function (e) {
-  $(this).showPop({
+```
+$('#btn').click(function (e) { 
+  $(this).showPop({ 
     'width': '200px',
-    'height': '50px',
-    'containerCls': 'pop-container',
-    'contentCls': 'pop-content',
-    'content': '<p>' + '我是弹出层' + '</p>'
+    'height': '50px',  
+    'containerCls': 'pop-container',  
+    'contentCls': 'pop-content',  
+    'content': '<p>' + '我是弹出层' + '</p>'  
   });
 });
-</pre>
+```
 
 ##	参数
 参数 | 类型 | 描述 | 默认值
