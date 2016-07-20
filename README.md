@@ -1,5 +1,5 @@
 # showPop
-showpop是一个基于jQuery的弹出层插件。
+showPop是一个基于jQuery的弹出层插件。
 
 ##	调用方法
 ```
